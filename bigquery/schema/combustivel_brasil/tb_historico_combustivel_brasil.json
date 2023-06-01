@@ -10,7 +10,7 @@
     "mode": "NULLABLE",
     "name": "estado_sigla",
     "type": "STRING"
-  },
+  }, 
   {
     "description": "",
     "mode": "NULLABLE",
