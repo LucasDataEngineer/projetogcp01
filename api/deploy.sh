@@ -1,0 +1,1 @@
+gcloud run deploy gcp-data-pipeline-project10 --source . --region us-central1
