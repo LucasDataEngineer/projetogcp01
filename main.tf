@@ -74,4 +74,4 @@ module "bucket-pyspark-code" {
   name       = "bucket-project10-data-pipeline-combustiveis-brasil-pyspark-code"
   project_id = var.project_id
   location   = var.region
-}
+} 
